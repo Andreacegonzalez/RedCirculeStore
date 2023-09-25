@@ -1,0 +1,183 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Campera Rev Be",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Campera Imp Be",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 23000 
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Campera Rev Gy",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Campera Rev Bk",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Campera Imp Gy",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 23000
+    },
+    {
+        "id": "remera-01",
+        "titulo": "Remera Lisa",
+        "imagen": "./img/remeras/01.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera Lisa",
+        "imagen": "./img/remeras/02.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Remera Lisa",
+        "imagen": "./img/remeras/03.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera Lisa",
+        "imagen": "./img/remeras/04.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio":  4500
+    },
+    {
+        "id": "remera-05",
+        "titulo": "Remera Lisa",
+        "imagen": "./img/remeras/05.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio":  4500
+    },
+    {
+        "id": "remera-06",
+        "titulo": "Remera Lisa",
+        "imagen": "./img/remeras/06.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio":  4500
+    },
+    {
+        "id": "Remera Lisa",
+        "titulo": "Remera 07",
+        "imagen": "./img/remeras/07.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio":  4500
+    },
+    {
+        "id": "remera-08",
+        "titulo": "Remera Lisa",
+        "imagen": "./img/remeras/08.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 4500
+    },
+
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Cl",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio":  8900
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón We",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio":  8900
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Bk",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio":  8900
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón Gy",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 8900
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Gn",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 8900
+    }
+]
